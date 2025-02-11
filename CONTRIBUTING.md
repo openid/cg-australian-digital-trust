@@ -5,7 +5,7 @@ Please sign the [participation agreement](https://powerforms.docusign.net/dfa90a
 
 The CGADT Charter describes the group's charter and proposed deliverables.
 
-Join our mailing list to ask questions or provide feedback.
+Join our [mailing list](openid-au-digital-trust@lists.openid.net) to ask questions or provide feedback.
 
 Thanks,
 
