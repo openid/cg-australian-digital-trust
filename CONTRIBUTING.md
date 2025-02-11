@@ -1,4 +1,3 @@
-How to contribute
 
 Welcome to the Australia Digital Trust Community Group (CGADT).
 
