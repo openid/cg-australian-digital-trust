@@ -9,4 +9,4 @@ Meeting Schedule: The first meeting is on 17 February at 17:00 AEDT. Subsequent 
 
 Topics: The CG will agree on focus areas at the first meeting. 
 
-Slack: #cg-australian-digital-trust
+Slack: [#cg-australian-digital-trust](https://app.slack.com/client/TBB85A45B/C086C5WF4KA)
