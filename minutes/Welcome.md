@@ -34,7 +34,7 @@ Through the **Innovation Days series and topical working groups**, we will expan
  
 And ultimately, it will define Australia’s role in the global digital landscape.
  
-The future of digital trust **shouldn’t be shaped by one company, one government policy, or one sector alone.** Through this group, we have an opportunity to work together— across industries, across sectors, and across communities—to build a shared foundation for trust in Australia’s digital economy.
+The future of digital trust **shouldn’t be shaped by one objective, one company, or one sector alone.** Through this group, we have an opportunity to work together — **across industries, across sectors, and across communities **— to build a **shared foundation** for trust in Australia’s digital economy.
  
 Welcome to the Australian Digital Trust Community Group.
 
