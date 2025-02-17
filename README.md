@@ -25,7 +25,7 @@ The CG will agree on focus areas at the first meeting.
 
 ## Stay in touch: 
 
-Join our [mailing list](openid-au-digital-trust@lists.openid.net) to ask questions or provide feedback.
+Join our [mailing list](https://lists.openid.net/mailman/listinfo/openid-au-digital-trust) to ask questions or provide feedback.
 
 Join our group in Slack: [#cg-australian-digital-trust](https://app.slack.com/client/TBB85A45B/C086C5WF4KA)
 
