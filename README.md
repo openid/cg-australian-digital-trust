@@ -15,13 +15,14 @@ Membership of the Community Group is open to all, inclusive of individuals from 
 
 ## Meeting Schedule: 
 
-The first meeting is on 17 February at 17:00 AEDT. Subsequent meetings will be agreed thereafter.
+Meetings take place every Monday at 17:00 AEDT.
 
 **Zoom**: https://zoom.us/j/95320945677?pwd=aMBNHYCSujHC1MW6z1V1CjbMfKwE27.1
 
 ## Topics: 
 
-The CG will agree on focus areas at the first meeting. 
+**CG Focus areas**: 
+    TBC.
 
 ## Stay in touch: 
 
