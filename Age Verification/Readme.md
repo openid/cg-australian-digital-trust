@@ -16,3 +16,6 @@ The first meeting is on TBC . Subsequent meetings will be agreed thereafter.
 
 **Zoom**: https://zoom.us/j/95320945677?pwd=aMBNHYCSujHC1MW6z1V1CjbMfKwE27.1
 
+## Links
+
+- [Resources](Resources.md)
