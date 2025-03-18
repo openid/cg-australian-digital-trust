@@ -1,5 +1,6 @@
 # Meeting Agenda and Minutes 
-- Meeting minutes are drafted in HackMD, folder located here: https://hackmd.io/team/adtcg/folders/08Uy2_oQ_FWB1W5yaGa31 
+- Meeting minutes are drafted in HackMD, folder located here: 
+https://hackmd.io/join/HkWBdvP3yx
 
 - Drafts will be cirulated to the community before the meeting via mailing list: Openid-au-digital-trust@lists.openid.net 
 
