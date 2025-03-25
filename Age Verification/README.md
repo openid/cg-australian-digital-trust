@@ -1,8 +1,8 @@
-# Innovation Day: Age Authentication Subgroup
+# Innovation Day: Age Assurance Subgroup
 
 ## Outline 
 
-The Online Safety Amendment (Social Media Minimum Age) Bill 2024, passed late last year, has put the topic of age authentication firmly in the spotlight. Building on the eSafety Commissioner’s Roadmap for Age Verification Online Safety Act, the new bill requires social media platforms to “take reasonable steps to prevent Australians under 16 years of age from having accounts”. 
+The Online Safety Amendment (Social Media Minimum Age) Bill 2024, passed late last year, has put the topic of age assurance firmly in the spotlight. Building on the eSafety Commissioner’s Roadmap for Age Verification Online Safety Act, the new bill requires social media platforms to “take reasonable steps to prevent Australians under 16 years of age from having accounts”. 
 
 Alongside this, in the last year we’ve also seen state-based legislation come into effect, requiring effective proof-of-age for online sales of some age restricted goods and services.
 
