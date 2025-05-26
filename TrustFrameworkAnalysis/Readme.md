@@ -14,3 +14,6 @@ https://zoom.us/j/97745061561?pwd=XEehVH2EmHpCCJlhwMrbVXAX8D4kGB.1
 ## Working Doc: 
 This content is available to OIDF members. Please see google docs link in OIDF slack # cg-adt-trustframeworks. 
 
+Use Cases: https://docs.google.com/document/d/1OvC2wtfuB5OSv-1NzLZjSVVdSxrOIIdY/edit 
+
+
