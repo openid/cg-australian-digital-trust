@@ -18,4 +18,4 @@ The first meeting is on TBC . Subsequent meetings will be agreed thereafter.
 
 ## Links
 
-- [Resources](Resources.md)
+- [Resources](resources/README.md)
