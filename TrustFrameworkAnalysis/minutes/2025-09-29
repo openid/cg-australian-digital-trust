@@ -1,0 +1,84 @@
+# Meeting 29 September 2025 - Trust Framework Analysis
+
+Dial in details
+Zoom: https://zoom.us/j/97745061561?pwd=XEehVH2EmHpCCJlhwMrbVXAX8D4kGB.1
+
+When: Fortnightly from 17:00 to 18:00 on Monday (Eastern Australia Time - Sydney)
+
+# Sub group documents
+
+- Comparison sheet: https://docs.google.com/spreadsheets/d/1HnQhLvY_NUYd477Up-h2EfH0oKPsFluUmlERUoUdQYE/edit?gid=506016150#gid=506016150
+
+- Use cases https://docs.google.com/document/d/1OvC2wtfuB5OSv-1NzLZjSVVdSxrOIIdY/edit#heading=h.ji73eahlb6mo
+
+# Agenda
+
+**Antitrust Reminder**: Note the rules https://openid.net/policies/
+[OpenID Foundation, Groups, Activities, & Events, Note Well](https://openid.net/wp-content/uploads/2025/06/OIDF_Groups-Activities-Events-Note-Well_Final_2025-06-12.pdf)
+
+**Subgroup Purpose**
+ 
+ As digital identity ecosystems evolve globally, ensuring interoperability between Australia’s Digital ID frameworks and international schemes is crucial for seamless cross-border identity verification and trust. This subgroup will build upon the existing mapping activity documented in the “Survey on Trust Framework Policy Characteristics” and insights from the “Digital ID DNA – Interoperability Across Trust Frameworks” report.
+
+There has been some early work completed to compare Australia’s Digital ID framework against key global trust frameworks, including eIDAS2 (EU), NIST 800-63 (US), UK DIATF, Canada DIACC, Singpass (Singapore), and BankID (Sweden) - this working group will pick this up and drive through to completion and presentation with the SIDI Hub.
+
+To deepen practical insights, the subgroup will focus on mapping Australia’s framework to Japan’s digital identity standards as a specific use case. This will help identify key interoperability challenges, technical alignment opportunities, and policy considerations, paving the way for future bilateral and multilateral recognition of digital identities. The outcome will be a refined comparative analysis and recommendations report, guiding Australia’s approach to global digital identity interoperability.
+
+
+
+ **Administration** 
+    - **Participation Agreements**: Reminder to sign the participation agreement if you wish to have your comments and contributions recorded.
+    - **Access to Slack**: Reminder to join the Slack channel for ongoing discussions and updates. You will need to sign the participation agreement to contribute IPR to the Slack channel.
+    - **Access to the Mailing List**: See the signup link in the Readme.md file.
+
+**Introductions** - new attendees. 
+
+**Consultations**
+
+Digital Id Rules Consultation: 
+https://www.finance.gov.au/about-us/news/2025/digital-id-rules-consultation
+
+Prepaid mobile services verification with Digital ID
+https://www.acma.gov.au/consultations/2025-09/proposal-amend-prepaid-determination
+
+
+## Previous Actions.
+
+1. Olaf to finalize and submit the Productivity Commission report after the meeting. **DONE**
+2. Dave to take over mapping AGDIS into the trust framework spreadsheet.
+3. Dima to complete the ChatGPT work for ConnectID by the end of the week.
+4. Jan to continue working on the Japanese skiing structure use case for the trust framework comparison.
+5. Andres to potentially present more details about Velocity Network in mid-October .
+6. Dave to structure upcoming Trust Framework session agendas to include playback from workshops  and spreadsheet use case work.
+
+
+# Attendees
+
+- Olaf Grewe
+- Dave Hyland
+- Brad Carr
+- Eric Jiang
+- Gareth Narinesingh
+- Jacob Oberman
+- Linden Dawson
+- Stefan Charsley
+
+# Minutes 
+
+Group not strongly in favour of submitting feedback to open consultations. Some members felt that it might help to establish a track record for the ADT CG as an interested observer of legal and regulatory developments
+
+Dave presented his insights from mapping AGDIS into the SIDI framework. Clarification regarding Electronic Attestation vs Qualified Electronic Attestation was provided by Gareth. Mainly anchored on electronic conveyancing use cases in the UK (equivalent to PEXA). "Qualified" covers a government prescribed level of identity assurance in the UK and is intended to facilitate electronic transactions and mitigate fraud.
+
+Gareth reported on a new option within OIDF to introduce directed funding. In order to provide funding, OIDF membership is required. Two core rules: #1 For the benefit of the overall community, and #2 membership.
+
+Linden inquired about the "no phone home initiative". Eric explained that it is related to online verification of mobile driver licenses (cf. https://www.biometricupdate.com/202506/mdl-dont-phone-home-digital-id-experts-sound-alarm-over-privacy-capability). Stefan reported that there is a push to remove server retrieval. 
+
+Jacob reported on progress around the age assurance requirements. Linden mentioned relevant media reporiting (https://www.afr.com/companies/media-and-marketing/the-inside-story-of-australia-s-world-first-social-media-ban-20250815-p5mn7s).
+
+# New actions
+
+1. Chairs to discuss submissions to open consultations.
+
+# Next Meeting
+
+Monday 29 September 2025
