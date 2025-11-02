@@ -1,0 +1,212 @@
+# Agenda & Minutues for the 20 October 2025 17:00 ADT CG Meeting
+
+## Dial in details
+
+*Zoom*: https://zoom.us/j/95320945677?pwd=aMBNHYCSujHC1MW6z1V1CjbMfKwE27.1
+
+*When*: Every second Monday from 17:00 to 18:00(Eastern Australia Time - Sydney)
+
+*Location*: Zoom: https://zoom.us/j/95320945677?pwd=aMBNHYCSujHC1MW6z1V1CjbMfKwE27.1
+
+*Chair*: VR
+
+*Minutes*: DH
+
+## Attendees
+Brad Carr
+Dave Hyland
+Victoria Richardson
+Miki Brotzler
+Linden Dawson
+Jacob Oberman
+Kate Virgona
+John Scullen
+Jonathan Foyer
+Olaf Grewe
+Jo Spencer
+Gareth Narinesingh
+
+
+## Agenda
+
+1. **The meeting will be recorded for note taking purposes only.**
+1. **Antitrust Reminder**: Note latest Refresh of the rules https://openid.net/policies/ .
+    1. [OpenID Foundation, Groups, Activities, & Events, Note Well](https://openid.net/wp-content/uploads/2025/06/OIDF_Groups-Activities-Events-Note-Well_Final_2025-06-12.pdf)
+1. **ADT CG Charter**
+1. **Administration** 
+    - **Participation Agreements**: Reminder to sign the participation agreement if you wish to have your comments and contributions recorded.
+    - **Access to Slack**: Reminder to join the Slack channel for ongoing discussions and updates. You will need to sign the participation agreement to contribute IPR to the Slack channel.
+    - **Access to the Mailing List**: See the signup link in the Readme.md file.
+1. **Introductions** - new attendees. 
+1. **General Discussion**
+    1. **Previous Actions** (#Previous-Actions)
+1. **Local Events**: [see below](#Local-Events)
+1. **Previous Actions**: [see below](#Actions)
+1. **Subgroup Updates**: [see below](#Subgroups)
+1. **AOB**
+
+Discussion forming a reponse on productivity commission 
+https://www.pc.gov.au/inquiries/current/data-digital/interim
+
+## Previous Actions
+
+
+
+
+## Local Events
+
+Please insert chronologically ordered:
+
+### Event Name, Location, Date
+
+| Title    | Event Name |
+|----------|------------| 
+| Location | Someplace, STATE |
+| Date     | 2025-01-01 |
+| Link     | https://example.net |
+
+This is a template entry. Copy and paste for own events. Please insert chronologically.
+
+
+### Biometrics Intitute Showcase Australia, Canberra & Online, 26 Nov
+
+
+| Title    | Biometrics Intitute Showcase Australia |
+|----------|------------| 
+| Location | Hotel Realm, Canberra ACT & Online |
+| Date     | 2025-11-26 |
+| Link     | https://www.biometricsinstitute.org/event/showcase-australia-2025/ |
+
+{%preview https://www.biometricsinstitute.org/event/showcase-australia-2025/ %}
+
+### IDPro Meetup, Canberra (venue TBC), 26 Nov (after Showcase above)
+
+| Title    | Event Name |
+|----------|------------| 
+| Location | TBC, ACT |
+| Date     | 2025-11-26 |
+| Link     |  |
+
+
+## General updates
+
+### OIDF Polls
+
+
+
+## Meeting Minutes
+
+### Notes
+
+ - Signature of the participation agreement is not required to join the ODIF Slack. This is following a decision by OIDF Board that information that contains IP should not be shared in Slack by default. Therefore, signature of the agreement is not a prerequisite.
+
+
+VR - 1st week in dec for an innovation day on trust frameworks. One item was coming form gov as they would like to explore commercial framworks with the industry 
+LD - would neeed to make sure we address all competition interests
+VR - Intent is a discovery coversation and will have a broad participation across industry and other representatives
+GN - UK competition was left to private sector. Govt are now entering the market as a monopoly operator. UK not sure where the commercial model will fit in. 
+VR - does anyone think its a bad idea? - commercial model or a discussion -> No objections
+GN - Mandatory use of ID will require new legislation - will be 3-4 years to legislate. Should not stop private sector for progressing. Private sector in UK should be driving ahead with commerical models. 
+VR - There appears to be support for a session befor the end of the year for a broad discussion between private and public sector particaptions on ID commericalisation. 
+OG - Provided updates on the Trustframeworks subgroup. Section by section approach seems to be working that will allow us to bring this 
+VR - challenge to exercise a use case by the end of the year. 
+JO - Dovid Clarke - CISO for Victoria. DH to send an invite to join the ADT CG. Andy K spealking to BD&M has permission to work with the working group on consulting with WG
+JO - request all to look at the post in Slack. 
+JO - to send DH Dovid Clark details to invite to the CG
+LD - Dade - Eve has put out a whitepaper - still open for review. Dean is presenting at authenticate. Link to whitepaper here:  https://openid.net/open-for-comment-the-unfinished-digital-estate/
+MB - wanted to talk to some of the death related events. There is a link to the online event. Lifting Lid.
+VR - Lifting the Lid is Online - Death Fest is in sydney. 
+AOB - OG - Consultation submitted on time thanks to John Scullen and Vic for assitence. Will not be converted into a linked in post. We still have one day to respond to the prepaid consutlatio - this is a good oppty to demonstrate where Digitali ID can be helpful. The link to the response is in slack All contributions welcome. 
+VR - Action related to how to address age vefiication coveredy by Jacob and Andy. 
+OR - OIDF Hybrid Workshop - DP did pull together the report to the forum that is currently being held. 
+VR - one pager to OIDF Hybrid Workshop. Presented the one page slide. 
+VR - Changes to to clarify the Trust Framework responses and Flag Truncation. 
+LD - Had Olaf approve Lindens presentation to the group. 
+LD - Presented on her trip to Washington Identity Week. 
+
+
+## Actions
+
+  
+
+## ADT CG Subgroups
+
+The ADT CG will govern and oversee the activites of the subgroups. 
+
+Subgroups will report back to the CG on activities, progress and broad socialisation/review of any work they undertake. 
+
+
+## Subgroups
+
+
+### SIDI Trust Framework Analysis
+
+**Meets**: Every second Monday @ 5 PM
+
+**Slack**: https://oidf.slack.com/archives/C08HWV6BR7X
+
+**Overview**: https://github.com/openid/cg-australian-digital-trust/blob/f5c4682e24c7f28b8663cdb697268003728d7f73/TrustFrameworkAnalysis/Readme.md
+
+**Discussion**:
+
+As per the meeting notes: https://hackmd.io/9rj0nzA8SfaIIWUvFqQ30g
+
+**Actions**:
+
+As per the meeting notes: https://hackmd.io/9rj0nzA8SfaIIWUvFqQ30g
+
+
+### DADE AU 
+
+**Meets**: 
+
+Disbanded in favor of global [OpenID "DADE" group](https://github.com/openid/death-and-the-digital-estate)
+
+**Slack**: 
+
+[OpenID #cg-dade](https://oidf.slack.com/archives/C07KQP3DMR7)
+
+**Overview**: Will align with the global group (next meeting 21 Aug 8am AEST)
+
+**Actions**:
+
+**Discussion** 
+
+- Call for Contributions to [Digital Estate Planning Guide](https://docs.google.com/document/d/1gjM82jsF242ag99-pDaQF00i5YK3Lpwr/edit)
+- Comments close on October 24 for [discussion paper and planning guide](https://openid.net/open-for-comment-the-unfinished-digital-estate/)
+
+
+### Age Assurance
+
+**Meets**: TBC.
+
+**Slack**: https://oidf.slack.com/archives/C08HZ95GGKC 
+
+**Overview**: https://github.com/openid/cg-australian-digital-trust/blob/f5c4682e24c7f28b8663cdb697268003728d7f73/InnovationDay-1/Readme.md
+
+**Discussion**: 
+
+**Actions**:
+
+No Actions - This will remain open as an Active Slack channel while the Innovation Days activites are underway. 
+
+
+## Other Items
+
+
+# Next meeting
+
+ Date: 3 November 2025
+
+## Dial in details
+
+*Zoom*: https://zoom.us/j/95320945677?pwd=aMBNHYCSujHC1MW6z1V1CjbMfKwE27.1
+
+*When*: Bi-weekly from 17:00 to 18:00 on Monday (Eastern Australia Time - Sydney)
+
+*Location*: Zoom: https://zoom.us/j/95320945677?pwd=aMBNHYCSujHC1MW6z1V1CjbMfKwE27.1
+
+*Chair*: 
+
+*Minutes*: 
+
