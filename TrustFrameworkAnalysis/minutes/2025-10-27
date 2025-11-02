@@ -1,0 +1,78 @@
+# Meeting 27 October 2025 - Trust Framework Analysis
+
+Dial in details
+Zoom: https://zoom.us/j/97745061561?pwd=XEehVH2EmHpCCJlhwMrbVXAX8D4kGB.1
+
+When: Fortnightly from 17:00 to 18:00 on Monday (Eastern Australia Time - Sydney)
+
+# Sub group documents
+
+- Comparison sheet: https://docs.google.com/spreadsheets/d/1HnQhLvY_NUYd477Up-h2EfH0oKPsFluJUmlERUoUdQYE/edit?gid=506016150#gid=506016150
+
+- Use cases https://docs.google.com/document/d/1OvC2wtfuB5OSv-1NzLZjSVVdSxrOIIdY/edit#heading=h.ji73eahlb6mo
+
+# Agenda
+
+**Antitrust Reminder**: Note the rules https://openid.net/policies/
+[OpenID Foundation, Groups, Activities, & Events, Note Well](https://openid.net/wp-content/uploads/2025/06/OIDF_Groups-Activities-Events-Note-Well_Final_2025-06-12.pdf)
+
+**Subgroup Purpose**
+ 
+ As digital identity ecosystems evolve globally, ensuring interoperability between Australia’s Digital ID frameworks and international schemes is crucial for seamless cross-border identity verification and trust. This subgroup will build upon the existing mapping activity documented in the “Survey on Trust Framework Policy Characteristics” and insights from the “Digital ID DNA – Interoperability Across Trust Frameworks” report.
+
+There has been some early work completed to compare Australia’s Digital ID framework against key global trust frameworks, including eIDAS2 (EU), NIST 800-63 (US), UK DIATF, Canada DIACC, Singpass (Singapore), and BankID (Sweden) - this working group will pick this up and drive through to completion and presentation with the SIDI Hub.
+
+To deepen practical insights, the subgroup will focus on mapping Australia’s framework to Japan’s digital identity standards as a specific use case. This will help identify key interoperability challenges, technical alignment opportunities, and policy considerations, paving the way for future bilateral and multilateral recognition of digital identities. The outcome will be a refined comparative analysis and recommendations report, guiding Australia’s approach to global digital identity interoperability.
+
+
+
+ **Administration** 
+    - **Participation Agreements**: Reminder to sign the participation agreement if you wish to have your comments and contributions recorded.
+    - **Access to Slack**: Reminder to join the Slack channel for ongoing discussions and updates. You will need to sign the participation agreement to contribute IPR to the Slack channel.
+    - **Access to the Mailing List**: See the signup link in the Readme.md file.
+
+**Introductions** - new attendees. 
+
+**Consultations**
+
+Digital Id Rules Consultation: 
+https://www.finance.gov.au/about-us/news/2025/digital-id-rules-consultation
+
+
+Prepaid mobile services verification with Digital ID
+https://www.acma.gov.au/consultations/2025-09/proposal-amend-prepaid-determination
+
+
+## Previous Actions.
+
+
+
+# Attendees
+Andres Olave
+Jo Spencer
+Olaf Grewe
+Linden Dawson
+Eric Jiang
+
+
+# Minutes 
+The meeting considered the topics...
+Account closure / supension and DH comments
+* account closure implies no re-activation
+* account deletion would only be done post audit period expiry
+* authenticator suspension and closure is a different topic
+* authenticator's found to be inappropriate my invalidate all account authentications done by them
+* assurance levels should be able to be increased based on additional activities by the ISP
+Legal 
+* Liability in AGDIS Scheme is considered from a Government Agency ISP perspective and not a commercial scheme. This will need to be extended as commercial solutions are admitted as ISPs.
+* IDP liability appears to be as would be expected
+* Insurance considerations and their "by-directional" nature to be further articulated.
+
+
+# New actions
+
+1. Chairs to discuss submissions to open consultations.
+
+# Next Meeting
+
+Monday 10 November 2025
