@@ -1,0 +1,69 @@
+# Meeting 4 August 2025 - Trust Framework Analysis
+
+Dial in details
+Zoom: https://zoom.us/j/95320945677?pwd=aMBNHYCSujHC1MW6z1V1CjbMfKwE27.1
+
+When: Weekly from 17:00 to 18:00 on Monday (Eastern Australia Time - Sydney)
+
+Location: Zoom: https://zoom.us/j/95320945677?pwd=aMBNHYCSujHC1MW6z1V1CjbMfKwE27.1
+
+# Agenda
+
+1. Updates 
+
+
+
+# Attendees
+
+Dima Postnikov
+Victoria Richardson
+Stefan Charsley
+Gareth NanineSingh
+Dave Hyland
+Jan Vereecken
+Joe Spencer
+Jacob Oberman
+
+
+# Minutes 
+
+**Summary**
+The meeting focused on administrative tasks and updates to a trust framework analysis, including discussions about meeting logistics, agenda preparation, and minute updates. The team addressed challenges in mapping trust frameworks and regulations into a spreadsheet, considering both manual analysis and AI tools while discussing the need for clear definitions and scope adjustments. They also covered access management issues, task assignments, and concerns about the level of detail in the new spreadsheet, particularly regarding technical specifications and interoperability, before concluding with updates on the Australian Government's review of verifiable credentials and discussions about misinformation regarding age assurance.
+
+**Trust Framework Analysis Updates**
+The meeting focused on administrative tasks and updates to a trust framework analysis. Dima realized he was sharing the wrong meeting link and clarified that this was a subgroup meeting. Dave mentioned he had not prepared the agenda for the current week but would update it based on previous notes. The team discussed the need to update minutes from a previous meeting with Nick Mothershaw, which Dave agreed to do using his notes and transcript. Dave also explained that a new sheet had been added to the workbook for the trust framework analysis, and he asked the team to transfer relevant content from the old sheet to the new one.
+
+**Trust Framework Mapping Challenges**
+The team discussed the challenges of mapping trust frameworks and regulations into a spreadsheet, noting inconsistencies in terminology and incomplete value sets. Dima agreed to review results and provide feedback, while considering either manual analysis or leveraging AI tools like ChatGPT, though concerns were raised about AI's limitations with textual documents. Gareth emphasized the need for clear definitions of "scheme" to ensure apples-to-apples comparisons, suggesting potential updates to the spreadsheet and the need for Select ID to sign a participation agreement. Victoria proposed focusing on the scope of communication protocols and data transfer rather than terminology, to accommodate different jurisdictions' sensitivities.
+
+**Access and Task Management Solutions**
+The team discussed access management issues with a Google document and agreed to share access using Olaf's Gmail address. They reviewed a spreadsheet containing task assignments, with Dima confirming that TD is no longer used by the Department of Finance. The group debated how to proceed with the spreadsheet, with Olaf suggesting to acknowledge previous progress and continue working on it, while Dave proposed using AI tools like ChatGPT to complete the remaining tasks.
+
+**Enhancing Spreadsheet Technical Details**
+The team discussed concerns about the level of detail in the new spreadsheet, particularly regarding technical specifications and interoperability. Stefan and others noted that the spreadsheet lacks depth in areas like credential standards and technical characteristics, making it challenging for detailed comparisons. Dave suggested adding a section to address these gaps without creating a separate spreadsheet, while Olaf emphasized focusing on governance-level interoperability rather than purely technical aspects. The group agreed that while the spreadsheet is useful for high-level comparisons, it may need enhancements to cover more specific technical details.
+
+**Trust Framework Comparison Discussion**
+The team discussed discrepancies in a trust framework comparison spreadsheet, with Victoria noting that the second sheet contained less detail than expected. Dima explained that the new sheet focuses on general policy characteristics and suggested trying to work with the existing framework before creating new ones. Stefan asked about the format for characteristic value definitions, and Dima clarified that it should be a simple yes/no answer based on whether the scheme supports certain types of roles.
+
+**Framework Analysis and Certification Review**
+The team discussed a new spreadsheet for analyzing different frameworks, with actions assigned to several members. Dima requested that the group review the spreadsheet from different angles and reconvene in two weeks. Dave agreed to obtain the correct spreadsheet and analyze pictures of different frameworks. Gareth mentioned that Select ID is going through certification as an orchestration service provider, expected to be certified by the end of September. Victoria pointed out some issues with the spreadsheet's translation from Excel to Google Sheets, suggesting that people should review the defined values before filling it in.
+
+**Australian Credentials Policy Review**
+The group discussed the Australian Government's review of verifiable credentials, with Victoria reporting that the Department of Finance is developing policy hypotheses and a framework, but not immediate regulation. Victoria mentioned that the government will present these working hypotheses to the group for feedback in late August. The team also addressed concerns about misinformation regarding age assurance and government solutions, with Jacob noting some disinformation about third-party vendors, and the group agreed to potentially reactivate the age assurance subgroup to address these issues.
+
+# Actions
+
+1. Dima to report back on the results of the AI analysis of trust frameworks
+2. All participants to review and transfer content from previous spreadsheet  to new spreadsheet
+3. Gareth to speak with Nick about Select ID participation agreement requirements
+4. Dave to capture and share minutes from previous meeting with Nick Mothershaw
+5. Dave to obtain and analyze pictures of different frameworks for analysis
+6. Victoria to review and confirm completeness of spreadsheet characteristic value definitions
+7. Dave to investigate Excel to Google Docs compatibility issues with pre-populated values
+8. Jacob to take over Age Assurance subgroup if misinformation issues require further discussion
+9. Dima to look into updating spreadsheet definitions and terminology for scheme types
+10. Victoria to follow up with Department of Finance regarding policy hypotheses for verifiable credentials at end of August
+11. 
+# Next Meeting
+
+Monday 18 August 2025
