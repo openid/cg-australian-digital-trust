@@ -1,0 +1,240 @@
+# Agenda & Minutues for ADT CG Meeting on 17 November 2025, 17:00 AEDT
+
+## Dial in details
+
+**When**: Every second Monday from 17:00 to 18:00(Eastern Australia Time - Sydney)
+
+**Location**: Zoom https://zoom.us/j/95320945677?pwd=aMBNHYCSujHC1MW6z1V1CjbMfKwE27.1
+
+**Chair**: VR
+
+**Minutes**: DH
+
+## Attendees
+
+1. Dave Hyland
+2. Victoria Richardson
+3. John Scullen
+4. Linden Dawson
+5. Andres Olave
+6. Hamang Rathod 
+7. Jacob Oberman
+8. Olaf Grewe
+9. David Moore
+10. Derek Munneke
+11. Jo Spencer
+
+
+## Agenda
+
+_**The meeting will be recorded for note taking purposes only.**_
+
+1. **Antitrust Reminder**: 
+    1. Note latest Refresh of the rules https://openid.net/policies/
+    1. [OpenID Foundation, Groups, Activities, & Events, Note Well](https://openid.net/wp-content/uploads/2025/06/OIDF_Groups-Activities-Events-Note-Well_Final_2025-06-12.pdf)
+1. **ADT CG Charter**
+1. **Administration** 
+    - **Participation Agreements**: Reminder to sign the participation agreement if you wish to have your comments and contributions recorded.
+    - **Access to Slack**: Reminder to join the Slack channel for ongoing discussions and updates. You will need to sign the participation agreement to contribute IPR to the Slack channel.
+    - **Access to the Mailing List**: See the signup link in the Readme.md file.
+1. **Introductions** - new attendees. 
+1. **General Discussion** [see below](#General-Discussion)
+1. **Previous Actions** [see below](#Previous-Actions)
+1. **Local Events**: [see below](#Local-Events)
+1. **Subgroup Updates**: [see below](#Subgroups)
+1. **Any Other Business** [see below](#Other-Items) 
+
+---
+
+## Introductions
+
+1. Hamang Rathod
+
+## General Discussion
+
+The meeting began with administrative matters including rescheduling a meeting date and introducing new participant Hemang, who shared his background and current role. The group discussed upcoming events and meetings, including various subgroup activities and a government policy change regarding social media age restrictions. The conversation ended with updates on trust framework analysis mapping efforts and digital estate documentation, along with discussions about age assurance trials and potential council representation.
+
+**Meeting Notes**
+- No Comments re Lookback - will add to agenda for 1 December.
+- OG - ID Pro Canberra - Will have Sailpoint present, call out for Venue - 26 November 2026. Watch out for invite in slack to register. 
+- Events: Watch out for 10 December Age Assurance legislation!
+- Doodle Poll to come... seeking members availability for best day in Feb. 
+- JS: TOIP 5YR anniversary symposium 19-20 Nov online (2AM!)
+- Ecosystems Update: DH walked through current state of analysis and next steps to pull out insights and apply use cases
+- DADE - No update
+- Age Assurance Update: Meeting last week discussed outcome of Age Assurance Trial. See slack for note. Group still deciding on where they take the direction of the group. 
+- AOB - OG - Board report - 
+    - OG asked for Opinion of ADT CG membership of DSAC
+    - HR - Suggest would be a good idea
+    - VR Agreed. 
+    - OG - we will submit board reprot this side of the Christmas holidays. 
+
+**Recorded Actions**
+1. Victoria: Create a Doodle poll for scheduling the Innovation Day event in early February
+2. Victoria: Add group review and look back item to the agenda for the next meeting
+3. Olaf: Find a donated venue in Canberra for the IDPro meetup on November 26th between 5:30-9pm for 38 people
+4. Olaf: Send out registration link for IDPro meetup in Slack and LinkedIn
+5. Dave: Check if AuthSen poll is open and post link if available
+6. Dave: Note the meeting schedule details - last meeting December 15th, restart January 12th
+7. Victoria: Write first draft of blog post about age assurance for OIDF, covering different options, the breakfast event with Age Assurance Czech, and data minimization principles, before the next Age Assurance subgroup meeting on Wednesday
+8. Olaf: Post the board report link to the CG Australian Digital Trust Slack channel for review
+
+
+### OIDF Polls
+
+1. _none_
+
+## Previous Actions
+
+1. **Dave and Dima**: Sort out December meeting schedule on Wednesday
+1. **Dima**: Catch up with Mickey and Olaf about the Biometrics Institute Showcase meetup on November 26th
+1. **Dima**: Remind Rick to participate in the Trust Framework mapping exercise and attend meetings
+1. **Dima**: Reach out to Rick Iverson to hand over Connect ID framework mapping work
+1. **Dima**: Communicate proposed meeting dates  to the group
+1. **Dima**: Produce a report for the OpenID Foundation Board about community group activity by second week of December
+1. **Dima**: Put "group review and look back" on the agenda for next meeting to discuss improvements
+1. **Jacob**: Follow up with Andy on bullet points regarding birth certificate as a use case
+1. **Jacob**: Confirm Age Assurance group meeting for Wednesday at 1700  and get acceptance from relevant parties in Slack
+
+## Local Events
+
+Please insert chronologically ordered:
+
+
+### Event Name, Location, Date
+
+_This is a template entry. Copy and paste for own events. Please insert chronologically._
+
+| Title    | Event Name |
+|----------|------------| 
+| Location | Someplace, STATE |
+| Date     | 2025-01-01 |
+| Link     | https://example.net |
+
+### Biometrics Intitute Showcase Australia, Canberra & Online, 26 Nov
+
+| Title    | Biometrics Intitute Showcase Australia |
+|----------|------------| 
+| Location | Hotel Realm, Canberra ACT & Online |
+| Date     | 2025-11-26 |
+| Link     | {%preview https://www.biometricsinstitute.org/event/showcase-australia-2025/ %} |
+
+### IDPro Meetup, Canberra (venue TBC), 26 Nov (after Biometrics Showcase)
+
+| Title    | Event Name |
+|----------|------------| 
+| Location | TBC, ACT |
+| Date     | 2025-11-26 |
+| Link     | https://www.meetup.com/dig-id-australian-digital-identity-meetup/ |
+
+_potentially..._
+
+### Australian Social Media Age Restrictions, National, 10 Dec (TBC) 🥳
+
+> **It’s not a ban, it’s a delay to having accounts.**
+>
+> This means there will be no penalties for under-16s who access an age-restricted social media platform, or for their parents or carers. However, age-restricted social media platforms may face penalties if they don’t take reasonable steps to prevent under-16s from having accounts.
+
+| Title    | Event Name |
+|----------|------------| 
+| Location | National   |
+| Date     | 2025-12-10 |
+| Link     | https://www.esafety.gov.au/about-us/industry-regulation/social-media-age-restrictions |
+
+
+## ADT CG Subgroups
+
+The ADT CG will govern and oversee the activites of the subgroups. 
+
+Subgroups will report back to the CG on activities, progress and broad socialisation/review of any work they undertake. 
+
+
+### SIDI Trust Framework Analysis
+
+**Meets**: Every second Monday @ 5 PM
+
+**Slack**: https://oidf.slack.com/archives/C08HWV6BR7X
+
+**Overview**: https://github.com/openid/cg-australian-digital-trust/blob/f5c4682e24c7f28b8663cdb697268003728d7f73/TrustFrameworkAnalysis/Readme.md
+
+**Discussion**:
+
+As per the meeting notes: https://hackmd.io/9rj0nzA8SfaIIWUvFqQ30g
+
+**Actions**:
+
+As per the meeting notes: https://hackmd.io/9rj0nzA8SfaIIWUvFqQ30g
+
+
+### DADE AU 
+
+**Meets**: 
+
+Disbanded in favor of global [OpenID "DADE" group](https://github.com/openid/death-and-the-digital-estate)
+
+**Slack**: 
+
+[OpenID #cg-dade](https://oidf.slack.com/archives/C07KQP3DMR7)
+
+**Overview**: Will align with the global group (next meeting 21 Aug 8am AEST)
+
+**Actions**:
+
+**Discussion** 
+
+- Call for Contributions to [Digital Estate Planning Guide](https://docs.google.com/document/d/1gjM82jsF242ag99-pDaQF00i5YK3Lpwr/edit)
+- Comments close on October 24 for [discussion paper and planning guide](https://openid.net/open-for-comment-the-unfinished-digital-estate/)
+
+
+### Age Assurance
+
+**Meets**: TBC.
+
+**Slack**: https://oidf.slack.com/archives/C08HZ95GGKC 
+
+**Overview**: https://github.com/openid/cg-australian-digital-trust/blob/f5c4682e24c7f28b8663cdb697268003728d7f73/InnovationDay-1/Readme.md
+
+**Discussion**: 
+
+**Actions**:
+
+No Actions - This will remain open as an Active Slack channel while the Innovation Days activites are underway. 
+
+
+## Other Items
+
+
+### Holiday meeting cadence
+
+- Last meeting of year: 15 Dec 
+- First meeting of next year: 12 Jan 
+
+Subgroups will end before the 15 Dec and restart pos 12 Jan. 
+
+### FAPI 2.0 to support CDR
+
+John Scullen at a workshop on 23 Oct where Ian Opperman and Naomi Gilbert from Treasury / Data Standards spoke. They said there will be a public consultation coming up, likely in November, about moving to FAPI 2.0 to support CDR
+
+
+# Next meeting
+
+ Date: 1 December 2025
+
+## Dial in details
+
+*Zoom*: https://zoom.us/j/95320945677?pwd=aMBNHYCSujHC1MW6z1V1CjbMfKwE27.1
+
+*When*: Bi-weekly from 17:00 to 18:00 on Monday (Eastern Australia Time - Sydney)
+
+*Location*: Zoom https://zoom.us/j/95320945677?pwd=aMBNHYCSujHC1MW6z1V1CjbMfKwE27.1
+
+*Chair*: 
+
+*Minutes*: 
+
+---
+
+
+# New Actions from Meeting
+
+1.
