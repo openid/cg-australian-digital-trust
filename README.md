@@ -15,15 +15,17 @@ Membership of the Community Group is open to all, inclusive of individuals from 
 
 ## Meeting Schedule: 
 
-Meetings take place every second Monday at 17:00 AEDT. Please see meeting minutes for the next scheduled meeting.
+Meetings take place every second Monday at 17:00 AEDT. Please see [meeting minutes](minutes/) for the next scheduled meeting.
 
 **Zoom**: https://zoom.us/j/95320945677?pwd=aMBNHYCSujHC1MW6z1V1CjbMfKwE27.1
 
 ## Topics: 
 
 **CG Focus areas**: 
-    [Age Assurance] (https://github.com/openid/cg-australian-digital-trust/blob/661d20bf18e0317647e06833fdbf9233a8348c85/Age%20Verification/README.md)
-    [Trust Framework Analysis] (https://github.com/openid/cg-australian-digital-trust/blob/661d20bf18e0317647e06833fdbf9233a8348c85/TrustFrameworkAnalysis/Readme.md)
+
+- [Trust Framework Analysis](TrustFrameworkAnalysis/)
+- [Age Assurance and Assertion](AgeAssertion/)
+
 
 ## Stay in touch: 
 
